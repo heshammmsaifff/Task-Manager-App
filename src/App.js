@@ -264,7 +264,7 @@ function App() {
             <i className="fab fa-github"></i>
           </a>
           <a 
-            href="https://www.linkedin.com/in/heshaam-saif-6b4846353/?trk=opento_sprofile_details" 
+            href="https://www.linkedin.com/in/hesham-saif-6b4846353/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="social-icon"
